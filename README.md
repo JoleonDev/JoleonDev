@@ -1,16 +1,28 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**JoleonDev/JoleonDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre>
+> Initializing system...
+> Loading core modules...
+> [██████████] 100%
+> [OK] Coffee.sh loaded
+> [OK] Code.exe loaded
+> [ERROR] Sleep.dll not found. Skipping...
+> System ready.
+</pre>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Animación de texto tipo máquina de escribir -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=27F22E&center=true&vCenter=true&random=false&width=500&lines=>_Escribiendo+c%C3%B3digo...;>_Buscando+bugs...;>_Transformando+caf%C3%A9+en+software...;>_404+Sleep+Not+Found" alt="Typing SVG" />
+</a>
+
+<br><br>
+
+---
+
+<p align="center">
+  <i>No hay información aquí. Solo código.</i>
+</p>
+
+</div>
